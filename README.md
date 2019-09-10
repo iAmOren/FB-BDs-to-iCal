@@ -2,9 +2,9 @@
 Extract Facebook Birthdays to an iCal file  
 Facebook no longer supports subscriptions to birthdays to be used in other calendars  
 Personal version:  
-	Manually loading BDs page and forcing display all by page down until end - automate  
+   Manually loading BDs page and forcing display all by page down until end - automate  
 	Using console to paste and run javascript:  
-		set starts month - automize  
+		set starts month - automate  
 		outputs text to be copied to iCal, but  
 			with asterixes for this week's birthdays - automate  
 	Links to profiles = a bonus!  
